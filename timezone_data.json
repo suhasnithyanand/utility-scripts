@@ -1,0 +1,2199 @@
+{
+    "UTC+04:30": [
+      {
+        "Country Code": "AF",
+        "Country Name": "Afghanistan",
+        "Time Zone": "Asia/Kabul"
+      },
+      {
+        "Country Code": "IR",
+        "Country Name": "Iran",
+        "Time Zone": "Asia/Tehran"
+      }
+    ],
+    "UTC+03:00": [
+      {
+        "Country Code": "AX",
+        "Country Name": "Aland Islands",
+        "Time Zone": "Europe/Mariehamn"
+      },
+      {
+        "Country Code": "AQ",
+        "Country Name": "Antarctica",
+        "Time Zone": "Antarctica/Syowa"
+      },
+      {
+        "Country Code": "BH",
+        "Country Name": "Bahrain",
+        "Time Zone": "Asia/Bahrain"
+      },
+      {
+        "Country Code": "BY",
+        "Country Name": "Belarus",
+        "Time Zone": "Europe/Minsk"
+      },
+      {
+        "Country Code": "BG",
+        "Country Name": "Bulgaria",
+        "Time Zone": "Europe/Sofia"
+      },
+      {
+        "Country Code": "KM",
+        "Country Name": "Comoros",
+        "Time Zone": "Indian/Comoro"
+      },
+      {
+        "Country Code": "CY",
+        "Country Name": "Cyprus",
+        "Time Zone": "Asia/Famagusta"
+      },
+      {
+        "Country Code": "CY",
+        "Country Name": "Cyprus",
+        "Time Zone": "Asia/Nicosia"
+      },
+      {
+        "Country Code": "DJ",
+        "Country Name": "Djibouti",
+        "Time Zone": "Africa/Djibouti"
+      },
+      {
+        "Country Code": "ER",
+        "Country Name": "Eritrea",
+        "Time Zone": "Africa/Asmara"
+      },
+      {
+        "Country Code": "EE",
+        "Country Name": "Estonia",
+        "Time Zone": "Europe/Tallinn"
+      },
+      {
+        "Country Code": "ET",
+        "Country Name": "Ethiopia",
+        "Time Zone": "Africa/Addis_Ababa"
+      },
+      {
+        "Country Code": "FI",
+        "Country Name": "Finland",
+        "Time Zone": "Europe/Helsinki"
+      },
+      {
+        "Country Code": "GR",
+        "Country Name": "Greece",
+        "Time Zone": "Europe/Athens"
+      },
+      {
+        "Country Code": "IQ",
+        "Country Name": "Iraq",
+        "Time Zone": "Asia/Baghdad"
+      },
+      {
+        "Country Code": "IL",
+        "Country Name": "Israel",
+        "Time Zone": "Asia/Jerusalem"
+      },
+      {
+        "Country Code": "JO",
+        "Country Name": "Jordan",
+        "Time Zone": "Asia/Amman"
+      },
+      {
+        "Country Code": "KE",
+        "Country Name": "Kenya",
+        "Time Zone": "Africa/Nairobi"
+      },
+      {
+        "Country Code": "KW",
+        "Country Name": "Kuwait",
+        "Time Zone": "Asia/Kuwait"
+      },
+      {
+        "Country Code": "LV",
+        "Country Name": "Latvia",
+        "Time Zone": "Europe/Riga"
+      },
+      {
+        "Country Code": "LB",
+        "Country Name": "Lebanon",
+        "Time Zone": "Asia/Beirut"
+      },
+      {
+        "Country Code": "LT",
+        "Country Name": "Lithuania",
+        "Time Zone": "Europe/Vilnius"
+      },
+      {
+        "Country Code": "MG",
+        "Country Name": "Madagascar",
+        "Time Zone": "Indian/Antananarivo"
+      },
+      {
+        "Country Code": "YT",
+        "Country Name": "Mayotte",
+        "Time Zone": "Indian/Mayotte"
+      },
+      {
+        "Country Code": "MD",
+        "Country Name": "Moldova",
+        "Time Zone": "Europe/Chisinau"
+      },
+      {
+        "Country Code": "PS",
+        "Country Name": "Palestinian Territory",
+        "Time Zone": "Asia/Gaza"
+      },
+      {
+        "Country Code": "PS",
+        "Country Name": "Palestinian Territory",
+        "Time Zone": "Asia/Hebron"
+      },
+      {
+        "Country Code": "QA",
+        "Country Name": "Qatar",
+        "Time Zone": "Asia/Qatar"
+      },
+      {
+        "Country Code": "RO",
+        "Country Name": "Romania",
+        "Time Zone": "Europe/Bucharest"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Europe/Kirov"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Europe/Moscow"
+      },
+      {
+        "Country Code": "SA",
+        "Country Name": "Saudi Arabia",
+        "Time Zone": "Asia/Riyadh"
+      },
+      {
+        "Country Code": "SO",
+        "Country Name": "Somalia",
+        "Time Zone": "Africa/Mogadishu"
+      },
+      {
+        "Country Code": "SS",
+        "Country Name": "South Sudan",
+        "Time Zone": "Africa/Juba"
+      },
+      {
+        "Country Code": "SY",
+        "Country Name": "Syria",
+        "Time Zone": "Asia/Damascus"
+      },
+      {
+        "Country Code": "TZ",
+        "Country Name": "Tanzania",
+        "Time Zone": "Africa/Dar_es_Salaam"
+      },
+      {
+        "Country Code": "TR",
+        "Country Name": "Turkey",
+        "Time Zone": "Europe/Istanbul"
+      },
+      {
+        "Country Code": "UG",
+        "Country Name": "Uganda",
+        "Time Zone": "Africa/Kampala"
+      },
+      {
+        "Country Code": "UA",
+        "Country Name": "Ukraine",
+        "Time Zone": "Europe/Kiev"
+      },
+      {
+        "Country Code": "UA",
+        "Country Name": "Ukraine",
+        "Time Zone": "Europe/Simferopol"
+      },
+      {
+        "Country Code": "UA",
+        "Country Name": "Ukraine",
+        "Time Zone": "Europe/Uzhgorod"
+      },
+      {
+        "Country Code": "UA",
+        "Country Name": "Ukraine",
+        "Time Zone": "Europe/Zaporozhye"
+      },
+      {
+        "Country Code": "YE",
+        "Country Name": "Yemen",
+        "Time Zone": "Asia/Aden"
+      }
+    ],
+    "UTC+02:00": [
+      {
+        "Country Code": "AL",
+        "Country Name": "Albania",
+        "Time Zone": "Europe/Tirane"
+      },
+      {
+        "Country Code": "AD",
+        "Country Name": "Andorra",
+        "Time Zone": "Europe/Andorra"
+      },
+      {
+        "Country Code": "AQ",
+        "Country Name": "Antarctica",
+        "Time Zone": "Antarctica/Troll"
+      },
+      {
+        "Country Code": "AT",
+        "Country Name": "Austria",
+        "Time Zone": "Europe/Vienna"
+      },
+      {
+        "Country Code": "BE",
+        "Country Name": "Belgium",
+        "Time Zone": "Europe/Brussels"
+      },
+      {
+        "Country Code": "BA",
+        "Country Name": "Bosnia and Herzegovina",
+        "Time Zone": "Europe/Sarajevo"
+      },
+      {
+        "Country Code": "BW",
+        "Country Name": "Botswana",
+        "Time Zone": "Africa/Gaborone"
+      },
+      {
+        "Country Code": "BI",
+        "Country Name": "Burundi",
+        "Time Zone": "Africa/Bujumbura"
+      },
+      {
+        "Country Code": "HR",
+        "Country Name": "Croatia",
+        "Time Zone": "Europe/Zagreb"
+      },
+      {
+        "Country Code": "CZ",
+        "Country Name": "Czech Republic",
+        "Time Zone": "Europe/Prague"
+      },
+      {
+        "Country Code": "CD",
+        "Country Name": "Democratic Republic of the Congo",
+        "Time Zone": "Africa/Lubumbashi"
+      },
+      {
+        "Country Code": "DK",
+        "Country Name": "Denmark",
+        "Time Zone": "Europe/Copenhagen"
+      },
+      {
+        "Country Code": "EG",
+        "Country Name": "Egypt",
+        "Time Zone": "Africa/Cairo"
+      },
+      {
+        "Country Code": "FR",
+        "Country Name": "France",
+        "Time Zone": "Europe/Paris"
+      },
+      {
+        "Country Code": "DE",
+        "Country Name": "Germany",
+        "Time Zone": "Europe/Berlin"
+      },
+      {
+        "Country Code": "DE",
+        "Country Name": "Germany",
+        "Time Zone": "Europe/Busingen"
+      },
+      {
+        "Country Code": "GI",
+        "Country Name": "Gibraltar",
+        "Time Zone": "Europe/Gibraltar"
+      },
+      {
+        "Country Code": "HU",
+        "Country Name": "Hungary",
+        "Time Zone": "Europe/Budapest"
+      },
+      {
+        "Country Code": "IT",
+        "Country Name": "Italy",
+        "Time Zone": "Europe/Rome"
+      },
+      {
+        "Country Code": "LS",
+        "Country Name": "Lesotho",
+        "Time Zone": "Africa/Maseru"
+      },
+      {
+        "Country Code": "LY",
+        "Country Name": "Libya",
+        "Time Zone": "Africa/Tripoli"
+      },
+      {
+        "Country Code": "LI",
+        "Country Name": "Liechtenstein",
+        "Time Zone": "Europe/Vaduz"
+      },
+      {
+        "Country Code": "LU",
+        "Country Name": "Luxembourg",
+        "Time Zone": "Europe/Luxembourg"
+      },
+      {
+        "Country Code": "MK",
+        "Country Name": "Macedonia",
+        "Time Zone": "Europe/Skopje"
+      },
+      {
+        "Country Code": "MW",
+        "Country Name": "Malawi",
+        "Time Zone": "Africa/Blantyre"
+      },
+      {
+        "Country Code": "MT",
+        "Country Name": "Malta",
+        "Time Zone": "Europe/Malta"
+      },
+      {
+        "Country Code": "MC",
+        "Country Name": "Monaco",
+        "Time Zone": "Europe/Monaco"
+      },
+      {
+        "Country Code": "ME",
+        "Country Name": "Montenegro",
+        "Time Zone": "Europe/Podgorica"
+      },
+      {
+        "Country Code": "MZ",
+        "Country Name": "Mozambique",
+        "Time Zone": "Africa/Maputo"
+      },
+      {
+        "Country Code": "NA",
+        "Country Name": "Namibia",
+        "Time Zone": "Africa/Windhoek"
+      },
+      {
+        "Country Code": "NL",
+        "Country Name": "Netherlands",
+        "Time Zone": "Europe/Amsterdam"
+      },
+      {
+        "Country Code": "NO",
+        "Country Name": "Norway",
+        "Time Zone": "Europe/Oslo"
+      },
+      {
+        "Country Code": "PL",
+        "Country Name": "Poland",
+        "Time Zone": "Europe/Warsaw"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Europe/Kaliningrad"
+      },
+      {
+        "Country Code": "RW",
+        "Country Name": "Rwanda",
+        "Time Zone": "Africa/Kigali"
+      },
+      {
+        "Country Code": "SM",
+        "Country Name": "San Marino",
+        "Time Zone": "Europe/San_Marino"
+      },
+      {
+        "Country Code": "RS",
+        "Country Name": "Serbia",
+        "Time Zone": "Europe/Belgrade"
+      },
+      {
+        "Country Code": "SK",
+        "Country Name": "Slovakia",
+        "Time Zone": "Europe/Bratislava"
+      },
+      {
+        "Country Code": "SI",
+        "Country Name": "Slovenia",
+        "Time Zone": "Europe/Ljubljana"
+      },
+      {
+        "Country Code": "ZA",
+        "Country Name": "South Africa",
+        "Time Zone": "Africa/Johannesburg"
+      },
+      {
+        "Country Code": "ES",
+        "Country Name": "Spain",
+        "Time Zone": "Africa/Ceuta"
+      },
+      {
+        "Country Code": "ES",
+        "Country Name": "Spain",
+        "Time Zone": "Europe/Madrid"
+      },
+      {
+        "Country Code": "SD",
+        "Country Name": "Sudan",
+        "Time Zone": "Africa/Khartoum"
+      },
+      {
+        "Country Code": "SJ",
+        "Country Name": "Svalbard and Jan Mayen",
+        "Time Zone": "Arctic/Longyearbyen"
+      },
+      {
+        "Country Code": "SZ",
+        "Country Name": "Swaziland",
+        "Time Zone": "Africa/Mbabane"
+      },
+      {
+        "Country Code": "SE",
+        "Country Name": "Sweden",
+        "Time Zone": "Europe/Stockholm"
+      },
+      {
+        "Country Code": "CH",
+        "Country Name": "Switzerland",
+        "Time Zone": "Europe/Zurich"
+      },
+      {
+        "Country Code": "VA",
+        "Country Name": "Vatican",
+        "Time Zone": "Europe/Vatican"
+      },
+      {
+        "Country Code": "ZM",
+        "Country Name": "Zambia",
+        "Time Zone": "Africa/Lusaka"
+      },
+      {
+        "Country Code": "ZW",
+        "Country Name": "Zimbabwe",
+        "Time Zone": "Africa/Harare"
+      }
+    ],
+    "UTC+01:00": [
+      {
+        "Country Code": "DZ",
+        "Country Name": "Algeria",
+        "Time Zone": "Africa/Algiers"
+      },
+      {
+        "Country Code": "AO",
+        "Country Name": "Angola",
+        "Time Zone": "Africa/Luanda"
+      },
+      {
+        "Country Code": "BJ",
+        "Country Name": "Benin",
+        "Time Zone": "Africa/Porto-Novo"
+      },
+      {
+        "Country Code": "CM",
+        "Country Name": "Cameroon",
+        "Time Zone": "Africa/Douala"
+      },
+      {
+        "Country Code": "CF",
+        "Country Name": "Central African Republic",
+        "Time Zone": "Africa/Bangui"
+      },
+      {
+        "Country Code": "TD",
+        "Country Name": "Chad",
+        "Time Zone": "Africa/Ndjamena"
+      },
+      {
+        "Country Code": "CD",
+        "Country Name": "Democratic Republic of the Congo",
+        "Time Zone": "Africa/Kinshasa"
+      },
+      {
+        "Country Code": "GQ",
+        "Country Name": "Equatorial Guinea",
+        "Time Zone": "Africa/Malabo"
+      },
+      {
+        "Country Code": "FO",
+        "Country Name": "Faroe Islands",
+        "Time Zone": "Atlantic/Faroe"
+      },
+      {
+        "Country Code": "GA",
+        "Country Name": "Gabon",
+        "Time Zone": "Africa/Libreville"
+      },
+      {
+        "Country Code": "GG",
+        "Country Name": "Guernsey",
+        "Time Zone": "Europe/Guernsey"
+      },
+      {
+        "Country Code": "IE",
+        "Country Name": "Ireland",
+        "Time Zone": "Europe/Dublin"
+      },
+      {
+        "Country Code": "IM",
+        "Country Name": "Isle of Man",
+        "Time Zone": "Europe/Isle_of_Man"
+      },
+      {
+        "Country Code": "JE",
+        "Country Name": "Jersey",
+        "Time Zone": "Europe/Jersey"
+      },
+      {
+        "Country Code": "MA",
+        "Country Name": "Morocco",
+        "Time Zone": "Africa/Casablanca"
+      },
+      {
+        "Country Code": "NE",
+        "Country Name": "Niger",
+        "Time Zone": "Africa/Niamey"
+      },
+      {
+        "Country Code": "NG",
+        "Country Name": "Nigeria",
+        "Time Zone": "Africa/Lagos"
+      },
+      {
+        "Country Code": "PT",
+        "Country Name": "Portugal",
+        "Time Zone": "Atlantic/Madeira"
+      },
+      {
+        "Country Code": "PT",
+        "Country Name": "Portugal",
+        "Time Zone": "Europe/Lisbon"
+      },
+      {
+        "Country Code": "CG",
+        "Country Name": "Republic of the Congo",
+        "Time Zone": "Africa/Brazzaville"
+      },
+      {
+        "Country Code": "ES",
+        "Country Name": "Spain",
+        "Time Zone": "Atlantic/Canary"
+      },
+      {
+        "Country Code": "TN",
+        "Country Name": "Tunisia",
+        "Time Zone": "Africa/Tunis"
+      },
+      {
+        "Country Code": "GB",
+        "Country Name": "United Kingdom",
+        "Time Zone": "Europe/London"
+      },
+      {
+        "Country Code": "EH",
+        "Country Name": "Western Sahara",
+        "Time Zone": "Africa/El_Aaiun"
+      }
+    ],
+    "UTC-11:00": [
+      {
+        "Country Code": "AS",
+        "Country Name": "American Samoa",
+        "Time Zone": "Pacific/Pago_Pago"
+      },
+      {
+        "Country Code": "NU",
+        "Country Name": "Niue",
+        "Time Zone": "Pacific/Niue"
+      },
+      {
+        "Country Code": "UM",
+        "Country Name": "United States Minor Outlying Islands",
+        "Time Zone": "Pacific/Midway"
+      }
+    ],
+    "UTC-04:00": [
+      {
+        "Country Code": "AI",
+        "Country Name": "Anguilla",
+        "Time Zone": "America/Anguilla"
+      },
+      {
+        "Country Code": "AG",
+        "Country Name": "Antigua and Barbuda",
+        "Time Zone": "America/Antigua"
+      },
+      {
+        "Country Code": "AW",
+        "Country Name": "Aruba",
+        "Time Zone": "America/Aruba"
+      },
+      {
+        "Country Code": "BS",
+        "Country Name": "Bahamas",
+        "Time Zone": "America/Nassau"
+      },
+      {
+        "Country Code": "BB",
+        "Country Name": "Barbados",
+        "Time Zone": "America/Barbados"
+      },
+      {
+        "Country Code": "BO",
+        "Country Name": "Bolivia",
+        "Time Zone": "America/La_Paz"
+      },
+      {
+        "Country Code": "BQ",
+        "Country Name": "Bonaire, Saint Eustatius and Saba ",
+        "Time Zone": "America/Kralendijk"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Boa_Vista"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Campo_Grande"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Cuiaba"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Manaus"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Porto_Velho"
+      },
+      {
+        "Country Code": "VG",
+        "Country Name": "British Virgin Islands",
+        "Time Zone": "America/Tortola"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Blanc-Sablon"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Iqaluit"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Nipigon"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Pangnirtung"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Thunder_Bay"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Toronto"
+      },
+      {
+        "Country Code": "CU",
+        "Country Name": "Cuba",
+        "Time Zone": "America/Havana"
+      },
+      {
+        "Country Code": "CW",
+        "Country Name": "Curaçao",
+        "Time Zone": "America/Curacao"
+      },
+      {
+        "Country Code": "DM",
+        "Country Name": "Dominica",
+        "Time Zone": "America/Dominica"
+      },
+      {
+        "Country Code": "DO",
+        "Country Name": "Dominican Republic",
+        "Time Zone": "America/Santo_Domingo"
+      },
+      {
+        "Country Code": "GD",
+        "Country Name": "Grenada",
+        "Time Zone": "America/Grenada"
+      },
+      {
+        "Country Code": "GP",
+        "Country Name": "Guadeloupe",
+        "Time Zone": "America/Guadeloupe"
+      },
+      {
+        "Country Code": "GY",
+        "Country Name": "Guyana",
+        "Time Zone": "America/Guyana"
+      },
+      {
+        "Country Code": "HT",
+        "Country Name": "Haiti",
+        "Time Zone": "America/Port-au-Prince"
+      },
+      {
+        "Country Code": "MQ",
+        "Country Name": "Martinique",
+        "Time Zone": "America/Martinique"
+      },
+      {
+        "Country Code": "MS",
+        "Country Name": "Montserrat",
+        "Time Zone": "America/Montserrat"
+      },
+      {
+        "Country Code": "PY",
+        "Country Name": "Paraguay",
+        "Time Zone": "America/Asuncion"
+      },
+      {
+        "Country Code": "PR",
+        "Country Name": "Puerto Rico",
+        "Time Zone": "America/Puerto_Rico"
+      },
+      {
+        "Country Code": "BL",
+        "Country Name": "Saint Barthélemy",
+        "Time Zone": "America/St_Barthelemy"
+      },
+      {
+        "Country Code": "KN",
+        "Country Name": "Saint Kitts and Nevis",
+        "Time Zone": "America/St_Kitts"
+      },
+      {
+        "Country Code": "LC",
+        "Country Name": "Saint Lucia",
+        "Time Zone": "America/St_Lucia"
+      },
+      {
+        "Country Code": "MF",
+        "Country Name": "Saint Martin",
+        "Time Zone": "America/Marigot"
+      },
+      {
+        "Country Code": "VC",
+        "Country Name": "Saint Vincent and the Grenadines",
+        "Time Zone": "America/St_Vincent"
+      },
+      {
+        "Country Code": "SX",
+        "Country Name": "Sint Maarten",
+        "Time Zone": "America/Lower_Princes"
+      },
+      {
+        "Country Code": "TT",
+        "Country Name": "Trinidad and Tobago",
+        "Time Zone": "America/Port_of_Spain"
+      },
+      {
+        "Country Code": "TC",
+        "Country Name": "Turks and Caicos Islands",
+        "Time Zone": "America/Grand_Turk"
+      },
+      {
+        "Country Code": "VI",
+        "Country Name": "U.S. Virgin Islands",
+        "Time Zone": "America/St_Thomas"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Detroit"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Indiana/Indianapolis"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Indiana/Marengo"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Indiana/Petersburg"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Indiana/Vevay"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Indiana/Vincennes"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Indiana/Winamac"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Kentucky/Louisville"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Kentucky/Monticello"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/New_York"
+      },
+      {
+        "Country Code": "VE",
+        "Country Name": "Venezuela",
+        "Time Zone": "America/Caracas"
+      }
+    ],
+    "UTC+08:00": [
+      {
+        "Country Code": "AQ",
+        "Country Name": "Antarctica",
+        "Time Zone": "Antarctica/Casey"
+      },
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Perth"
+      },
+      {
+        "Country Code": "BN",
+        "Country Name": "Brunei",
+        "Time Zone": "Asia/Brunei"
+      },
+      {
+        "Country Code": "CN",
+        "Country Name": "China",
+        "Time Zone": "Asia/Shanghai"
+      },
+      {
+        "Country Code": "HK",
+        "Country Name": "Hong Kong",
+        "Time Zone": "Asia/Hong_Kong"
+      },
+      {
+        "Country Code": "ID",
+        "Country Name": "Indonesia",
+        "Time Zone": "Asia/Makassar"
+      },
+      {
+        "Country Code": "MO",
+        "Country Name": "Macao",
+        "Time Zone": "Asia/Macau"
+      },
+      {
+        "Country Code": "MY",
+        "Country Name": "Malaysia",
+        "Time Zone": "Asia/Kuala_Lumpur"
+      },
+      {
+        "Country Code": "MY",
+        "Country Name": "Malaysia",
+        "Time Zone": "Asia/Kuching"
+      },
+      {
+        "Country Code": "MN",
+        "Country Name": "Mongolia",
+        "Time Zone": "Asia/Choibalsan"
+      },
+      {
+        "Country Code": "MN",
+        "Country Name": "Mongolia",
+        "Time Zone": "Asia/Ulaanbaatar"
+      },
+      {
+        "Country Code": "PH",
+        "Country Name": "Philippines",
+        "Time Zone": "Asia/Manila"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Irkutsk"
+      },
+      {
+        "Country Code": "SG",
+        "Country Name": "Singapore",
+        "Time Zone": "Asia/Singapore"
+      },
+      {
+        "Country Code": "TW",
+        "Country Name": "Taiwan",
+        "Time Zone": "Asia/Taipei"
+      }
+    ],
+    "UTC+07:00": [
+      {
+        "Country Code": "AQ",
+        "Country Name": "Antarctica",
+        "Time Zone": "Antarctica/Davis"
+      },
+      {
+        "Country Code": "KH",
+        "Country Name": "Cambodia",
+        "Time Zone": "Asia/Phnom_Penh"
+      },
+      {
+        "Country Code": "CX",
+        "Country Name": "Christmas Island",
+        "Time Zone": "Indian/Christmas"
+      },
+      {
+        "Country Code": "ID",
+        "Country Name": "Indonesia",
+        "Time Zone": "Asia/Jakarta"
+      },
+      {
+        "Country Code": "ID",
+        "Country Name": "Indonesia",
+        "Time Zone": "Asia/Pontianak"
+      },
+      {
+        "Country Code": "LA",
+        "Country Name": "Laos",
+        "Time Zone": "Asia/Vientiane"
+      },
+      {
+        "Country Code": "MN",
+        "Country Name": "Mongolia",
+        "Time Zone": "Asia/Hovd"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Barnaul"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Krasnoyarsk"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Novokuznetsk"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Novosibirsk"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Tomsk"
+      },
+      {
+        "Country Code": "TH",
+        "Country Name": "Thailand",
+        "Time Zone": "Asia/Bangkok"
+      },
+      {
+        "Country Code": "VN",
+        "Country Name": "Vietnam",
+        "Time Zone": "Asia/Ho_Chi_Minh"
+      }
+    ],
+    "UTC+10:00": [
+      {
+        "Country Code": "AQ",
+        "Country Name": "Antarctica",
+        "Time Zone": "Antarctica/DumontDUrville"
+      },
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Brisbane"
+      },
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Currie"
+      },
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Hobart"
+      },
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Lindeman"
+      },
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Melbourne"
+      },
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Sydney"
+      },
+      {
+        "Country Code": "GU",
+        "Country Name": "Guam",
+        "Time Zone": "Pacific/Guam"
+      },
+      {
+        "Country Code": "FM",
+        "Country Name": "Micronesia",
+        "Time Zone": "Pacific/Chuuk"
+      },
+      {
+        "Country Code": "MP",
+        "Country Name": "Northern Mariana Islands",
+        "Time Zone": "Pacific/Saipan"
+      },
+      {
+        "Country Code": "PG",
+        "Country Name": "Papua New Guinea",
+        "Time Zone": "Pacific/Port_Moresby"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Ust-Nera"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Vladivostok"
+      }
+    ],
+    "UTC+05:00": [
+      {
+        "Country Code": "AQ",
+        "Country Name": "Antarctica",
+        "Time Zone": "Antarctica/Mawson"
+      },
+      {
+        "Country Code": "TF",
+        "Country Name": "French Southern Territories",
+        "Time Zone": "Indian/Kerguelen"
+      },
+      {
+        "Country Code": "KZ",
+        "Country Name": "Kazakhstan",
+        "Time Zone": "Asia/Aqtau"
+      },
+      {
+        "Country Code": "KZ",
+        "Country Name": "Kazakhstan",
+        "Time Zone": "Asia/Aqtobe"
+      },
+      {
+        "Country Code": "KZ",
+        "Country Name": "Kazakhstan",
+        "Time Zone": "Asia/Atyrau"
+      },
+      {
+        "Country Code": "KZ",
+        "Country Name": "Kazakhstan",
+        "Time Zone": "Asia/Oral"
+      },
+      {
+        "Country Code": "KZ",
+        "Country Name": "Kazakhstan",
+        "Time Zone": "Asia/Qyzylorda"
+      },
+      {
+        "Country Code": "MV",
+        "Country Name": "Maldives",
+        "Time Zone": "Indian/Maldives"
+      },
+      {
+        "Country Code": "PK",
+        "Country Name": "Pakistan",
+        "Time Zone": "Asia/Karachi"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Yekaterinburg"
+      },
+      {
+        "Country Code": "TJ",
+        "Country Name": "Tajikistan",
+        "Time Zone": "Asia/Dushanbe"
+      },
+      {
+        "Country Code": "TM",
+        "Country Name": "Turkmenistan",
+        "Time Zone": "Asia/Ashgabat"
+      },
+      {
+        "Country Code": "UZ",
+        "Country Name": "Uzbekistan",
+        "Time Zone": "Asia/Samarkand"
+      },
+      {
+        "Country Code": "UZ",
+        "Country Name": "Uzbekistan",
+        "Time Zone": "Asia/Tashkent"
+      }
+    ],
+    "UTC+12:00": [
+      {
+        "Country Code": "AQ",
+        "Country Name": "Antarctica",
+        "Time Zone": "Antarctica/McMurdo"
+      },
+      {
+        "Country Code": "FJ",
+        "Country Name": "Fiji",
+        "Time Zone": "Pacific/Fiji"
+      },
+      {
+        "Country Code": "KI",
+        "Country Name": "Kiribati",
+        "Time Zone": "Pacific/Tarawa"
+      },
+      {
+        "Country Code": "MH",
+        "Country Name": "Marshall Islands",
+        "Time Zone": "Pacific/Kwajalein"
+      },
+      {
+        "Country Code": "MH",
+        "Country Name": "Marshall Islands",
+        "Time Zone": "Pacific/Majuro"
+      },
+      {
+        "Country Code": "NR",
+        "Country Name": "Nauru",
+        "Time Zone": "Pacific/Nauru"
+      },
+      {
+        "Country Code": "NZ",
+        "Country Name": "New Zealand",
+        "Time Zone": "Pacific/Auckland"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Anadyr"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Kamchatka"
+      },
+      {
+        "Country Code": "TV",
+        "Country Name": "Tuvalu",
+        "Time Zone": "Pacific/Funafuti"
+      },
+      {
+        "Country Code": "UM",
+        "Country Name": "United States Minor Outlying Islands",
+        "Time Zone": "Pacific/Wake"
+      },
+      {
+        "Country Code": "WF",
+        "Country Name": "Wallis and Futuna",
+        "Time Zone": "Pacific/Wallis"
+      }
+    ],
+    "UTC-03:00": [
+      {
+        "Country Code": "AQ",
+        "Country Name": "Antarctica",
+        "Time Zone": "Antarctica/Palmer"
+      },
+      {
+        "Country Code": "AQ",
+        "Country Name": "Antarctica",
+        "Time Zone": "Antarctica/Rothera"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/Catamarca"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/Cordoba"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/Jujuy"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/La_Rioja"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/Mendoza"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/Rio_Gallegos"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/Salta"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/San_Juan"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/San_Luis"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/Tucuman"
+      },
+      {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Time Zone": "America/Argentina/Ushuaia"
+      },
+      {
+        "Country Code": "BM",
+        "Country Name": "Bermuda",
+        "Time Zone": "Atlantic/Bermuda"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Araguaina"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Bahia"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Belem"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Fortaleza"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Maceio"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Recife"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Santarem"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Sao_Paulo"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Glace_Bay"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Goose_Bay"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Halifax"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Moncton"
+      },
+      {
+        "Country Code": "CL",
+        "Country Name": "Chile",
+        "Time Zone": "America/Punta_Arenas"
+      },
+      {
+        "Country Code": "CL",
+        "Country Name": "Chile",
+        "Time Zone": "America/Santiago"
+      },
+      {
+        "Country Code": "FK",
+        "Country Name": "Falkland Islands",
+        "Time Zone": "Atlantic/Stanley"
+      },
+      {
+        "Country Code": "GF",
+        "Country Name": "French Guiana",
+        "Time Zone": "America/Cayenne"
+      },
+      {
+        "Country Code": "GL",
+        "Country Name": "Greenland",
+        "Time Zone": "America/Thule"
+      },
+      {
+        "Country Code": "SR",
+        "Country Name": "Suriname",
+        "Time Zone": "America/Paramaribo"
+      },
+      {
+        "Country Code": "UY",
+        "Country Name": "Uruguay",
+        "Time Zone": "America/Montevideo"
+      }
+    ],
+    "UTC+06:00": [
+      {
+        "Country Code": "AQ",
+        "Country Name": "Antarctica",
+        "Time Zone": "Antarctica/Vostok"
+      },
+      {
+        "Country Code": "BD",
+        "Country Name": "Bangladesh",
+        "Time Zone": "Asia/Dhaka"
+      },
+      {
+        "Country Code": "BT",
+        "Country Name": "Bhutan",
+        "Time Zone": "Asia/Thimphu"
+      },
+      {
+        "Country Code": "IO",
+        "Country Name": "British Indian Ocean Territory",
+        "Time Zone": "Indian/Chagos"
+      },
+      {
+        "Country Code": "CN",
+        "Country Name": "China",
+        "Time Zone": "Asia/Urumqi"
+      },
+      {
+        "Country Code": "KZ",
+        "Country Name": "Kazakhstan",
+        "Time Zone": "Asia/Almaty"
+      },
+      {
+        "Country Code": "KZ",
+        "Country Name": "Kazakhstan",
+        "Time Zone": "Asia/Qostanay"
+      },
+      {
+        "Country Code": "KG",
+        "Country Name": "Kyrgyzstan",
+        "Time Zone": "Asia/Bishkek"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Omsk"
+      }
+    ],
+    "UTC+04:00": [
+      {
+        "Country Code": "AM",
+        "Country Name": "Armenia",
+        "Time Zone": "Asia/Yerevan"
+      },
+      {
+        "Country Code": "AZ",
+        "Country Name": "Azerbaijan",
+        "Time Zone": "Asia/Baku"
+      },
+      {
+        "Country Code": "GE",
+        "Country Name": "Georgia",
+        "Time Zone": "Asia/Tbilisi"
+      },
+      {
+        "Country Code": "MU",
+        "Country Name": "Mauritius",
+        "Time Zone": "Indian/Mauritius"
+      },
+      {
+        "Country Code": "OM",
+        "Country Name": "Oman",
+        "Time Zone": "Asia/Muscat"
+      },
+      {
+        "Country Code": "RE",
+        "Country Name": "Reunion",
+        "Time Zone": "Indian/Reunion"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Europe/Astrakhan"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Europe/Samara"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Europe/Saratov"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Europe/Ulyanovsk"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Europe/Volgograd"
+      },
+      {
+        "Country Code": "SC",
+        "Country Name": "Seychelles",
+        "Time Zone": "Indian/Mahe"
+      },
+      {
+        "Country Code": "AE",
+        "Country Name": "United Arab Emirates",
+        "Time Zone": "Asia/Dubai"
+      }
+    ],
+    "UTC+11:00": [
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Antarctica/Macquarie"
+      },
+      {
+        "Country Code": "FM",
+        "Country Name": "Micronesia",
+        "Time Zone": "Pacific/Kosrae"
+      },
+      {
+        "Country Code": "FM",
+        "Country Name": "Micronesia",
+        "Time Zone": "Pacific/Pohnpei"
+      },
+      {
+        "Country Code": "NC",
+        "Country Name": "New Caledonia",
+        "Time Zone": "Pacific/Noumea"
+      },
+      {
+        "Country Code": "NF",
+        "Country Name": "Norfolk Island",
+        "Time Zone": "Pacific/Norfolk"
+      },
+      {
+        "Country Code": "PG",
+        "Country Name": "Papua New Guinea",
+        "Time Zone": "Pacific/Bougainville"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Magadan"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Sakhalin"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Srednekolymsk"
+      },
+      {
+        "Country Code": "SB",
+        "Country Name": "Solomon Islands",
+        "Time Zone": "Pacific/Guadalcanal"
+      },
+      {
+        "Country Code": "VU",
+        "Country Name": "Vanuatu",
+        "Time Zone": "Pacific/Efate"
+      }
+    ],
+    "UTC+09:30": [
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Adelaide"
+      },
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Broken_Hill"
+      },
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Darwin"
+      }
+    ],
+    "UTC+08:45": [
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Eucla"
+      }
+    ],
+    "UTC+10:30": [
+      {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Time Zone": "Australia/Lord_Howe"
+      }
+    ],
+    "UTC-06:00": [
+      {
+        "Country Code": "BZ",
+        "Country Name": "Belize",
+        "Time Zone": "America/Belize"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Cambridge_Bay"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Edmonton"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Inuvik"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Regina"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Swift_Current"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Yellowknife"
+      },
+      {
+        "Country Code": "CR",
+        "Country Name": "Costa Rica",
+        "Time Zone": "America/Costa_Rica"
+      },
+      {
+        "Country Code": "EC",
+        "Country Name": "Ecuador",
+        "Time Zone": "Pacific/Galapagos"
+      },
+      {
+        "Country Code": "SV",
+        "Country Name": "El Salvador",
+        "Time Zone": "America/El_Salvador"
+      },
+      {
+        "Country Code": "GT",
+        "Country Name": "Guatemala",
+        "Time Zone": "America/Guatemala"
+      },
+      {
+        "Country Code": "HN",
+        "Country Name": "Honduras",
+        "Time Zone": "America/Tegucigalpa"
+      },
+      {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Time Zone": "America/Chihuahua"
+      },
+      {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Time Zone": "America/Mazatlan"
+      },
+      {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Time Zone": "America/Ojinaga"
+      },
+      {
+        "Country Code": "NI",
+        "Country Name": "Nicaragua",
+        "Time Zone": "America/Managua"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Boise"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Denver"
+      }
+    ],
+    "UTC-05:00": [
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Eirunepe"
+      },
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Rio_Branco"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Atikokan"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Rainy_River"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Rankin_Inlet"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Resolute"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Winnipeg"
+      },
+      {
+        "Country Code": "KY",
+        "Country Name": "Cayman Islands",
+        "Time Zone": "America/Cayman"
+      },
+      {
+        "Country Code": "CL",
+        "Country Name": "Chile",
+        "Time Zone": "Pacific/Easter"
+      },
+      {
+        "Country Code": "CO",
+        "Country Name": "Colombia",
+        "Time Zone": "America/Bogota"
+      },
+      {
+        "Country Code": "EC",
+        "Country Name": "Ecuador",
+        "Time Zone": "America/Guayaquil"
+      },
+      {
+        "Country Code": "JM",
+        "Country Name": "Jamaica",
+        "Time Zone": "America/Jamaica"
+      },
+      {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Time Zone": "America/Bahia_Banderas"
+      },
+      {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Time Zone": "America/Cancun"
+      },
+      {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Time Zone": "America/Matamoros"
+      },
+      {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Time Zone": "America/Merida"
+      },
+      {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Time Zone": "America/Mexico_City"
+      },
+      {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Time Zone": "America/Monterrey"
+      },
+      {
+        "Country Code": "PA",
+        "Country Name": "Panama",
+        "Time Zone": "America/Panama"
+      },
+      {
+        "Country Code": "PE",
+        "Country Name": "Peru",
+        "Time Zone": "America/Lima"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Chicago"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Indiana/Knox"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Indiana/Tell_City"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Menominee"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/North_Dakota/Beulah"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/North_Dakota/Center"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/North_Dakota/New_Salem"
+      }
+    ],
+    "UTC-02:00": [
+      {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Time Zone": "America/Noronha"
+      },
+      {
+        "Country Code": "GL",
+        "Country Name": "Greenland",
+        "Time Zone": "America/Godthab"
+      },
+      {
+        "Country Code": "PM",
+        "Country Name": "Saint Pierre and Miquelon",
+        "Time Zone": "America/Miquelon"
+      },
+      {
+        "Country Code": "GS",
+        "Country Name": "South Georgia and the South Sandwich Islands",
+        "Time Zone": "Atlantic/South_Georgia"
+      }
+    ],
+    "UTC": [
+      {
+        "Country Code": "BF",
+        "Country Name": "Burkina Faso",
+        "Time Zone": "Africa/Ouagadougou"
+      },
+      {
+        "Country Code": "GM",
+        "Country Name": "Gambia",
+        "Time Zone": "Africa/Banjul"
+      },
+      {
+        "Country Code": "GH",
+        "Country Name": "Ghana",
+        "Time Zone": "Africa/Accra"
+      },
+      {
+        "Country Code": "GL",
+        "Country Name": "Greenland",
+        "Time Zone": "America/Danmarkshavn"
+      },
+      {
+        "Country Code": "GL",
+        "Country Name": "Greenland",
+        "Time Zone": "America/Scoresbysund"
+      },
+      {
+        "Country Code": "GN",
+        "Country Name": "Guinea",
+        "Time Zone": "Africa/Conakry"
+      },
+      {
+        "Country Code": "GW",
+        "Country Name": "Guinea-Bissau",
+        "Time Zone": "Africa/Bissau"
+      },
+      {
+        "Country Code": "IS",
+        "Country Name": "Iceland",
+        "Time Zone": "Atlantic/Reykjavik"
+      },
+      {
+        "Country Code": "CI",
+        "Country Name": "Ivory Coast",
+        "Time Zone": "Africa/Abidjan"
+      },
+      {
+        "Country Code": "LR",
+        "Country Name": "Liberia",
+        "Time Zone": "Africa/Monrovia"
+      },
+      {
+        "Country Code": "ML",
+        "Country Name": "Mali",
+        "Time Zone": "Africa/Bamako"
+      },
+      {
+        "Country Code": "MR",
+        "Country Name": "Mauritania",
+        "Time Zone": "Africa/Nouakchott"
+      },
+      {
+        "Country Code": "PT",
+        "Country Name": "Portugal",
+        "Time Zone": "Atlantic/Azores"
+      },
+      {
+        "Country Code": "SH",
+        "Country Name": "Saint Helena",
+        "Time Zone": "Atlantic/St_Helena"
+      },
+      {
+        "Country Code": "ST",
+        "Country Name": "Sao Tome and Principe",
+        "Time Zone": "Africa/Sao_Tome"
+      },
+      {
+        "Country Code": "SN",
+        "Country Name": "Senegal",
+        "Time Zone": "Africa/Dakar"
+      },
+      {
+        "Country Code": "SL",
+        "Country Name": "Sierra Leone",
+        "Time Zone": "Africa/Freetown"
+      },
+      {
+        "Country Code": "TG",
+        "Country Name": "Togo",
+        "Time Zone": "Africa/Lome"
+      }
+    ],
+    "UTC-07:00": [
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Creston"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Dawson"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Dawson_Creek"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Fort_Nelson"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Vancouver"
+      },
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/Whitehorse"
+      },
+      {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Time Zone": "America/Hermosillo"
+      },
+      {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Time Zone": "America/Tijuana"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Los_Angeles"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Phoenix"
+      }
+    ],
+    "UTC-02:30": [
+      {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Time Zone": "America/St_Johns"
+      }
+    ],
+    "UTC-01:00": [
+      {
+        "Country Code": "CV",
+        "Country Name": "Cape Verde",
+        "Time Zone": "Atlantic/Cape_Verde"
+      }
+    ],
+    "UTC+06:30": [
+      {
+        "Country Code": "CC",
+        "Country Name": "Cocos Islands",
+        "Time Zone": "Indian/Cocos"
+      },
+      {
+        "Country Code": "MM",
+        "Country Name": "Myanmar",
+        "Time Zone": "Asia/Yangon"
+      }
+    ],
+    "UTC-10:00": [
+      {
+        "Country Code": "CK",
+        "Country Name": "Cook Islands",
+        "Time Zone": "Pacific/Rarotonga"
+      },
+      {
+        "Country Code": "PF",
+        "Country Name": "French Polynesia",
+        "Time Zone": "Pacific/Tahiti"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "Pacific/Honolulu"
+      }
+    ],
+    "UTC+09:00": [
+      {
+        "Country Code": "TL",
+        "Country Name": "East Timor",
+        "Time Zone": "Asia/Dili"
+      },
+      {
+        "Country Code": "ID",
+        "Country Name": "Indonesia",
+        "Time Zone": "Asia/Jayapura"
+      },
+      {
+        "Country Code": "JP",
+        "Country Name": "Japan",
+        "Time Zone": "Asia/Tokyo"
+      },
+      {
+        "Country Code": "KP",
+        "Country Name": "North Korea",
+        "Time Zone": "Asia/Pyongyang"
+      },
+      {
+        "Country Code": "PW",
+        "Country Name": "Palau",
+        "Time Zone": "Pacific/Palau"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Chita"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Khandyga"
+      },
+      {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Time Zone": "Asia/Yakutsk"
+      },
+      {
+        "Country Code": "KR",
+        "Country Name": "South Korea",
+        "Time Zone": "Asia/Seoul"
+      }
+    ],
+    "UTC-09:00": [
+      {
+        "Country Code": "PF",
+        "Country Name": "French Polynesia",
+        "Time Zone": "Pacific/Gambier"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Adak"
+      }
+    ],
+    "UTC-09:30": [
+      {
+        "Country Code": "PF",
+        "Country Name": "French Polynesia",
+        "Time Zone": "Pacific/Marquesas"
+      }
+    ],
+    "UTC+05:30": [
+      {
+        "Country Code": "IN",
+        "Country Name": "India",
+        "Time Zone": "Asia/Kolkata"
+      },
+      {
+        "Country Code": "LK",
+        "Country Name": "Sri Lanka",
+        "Time Zone": "Asia/Colombo"
+      }
+    ],
+    "UTC+13:00": [
+      {
+        "Country Code": "KI",
+        "Country Name": "Kiribati",
+        "Time Zone": "Pacific/Enderbury"
+      },
+      {
+        "Country Code": "WS",
+        "Country Name": "Samoa",
+        "Time Zone": "Pacific/Apia"
+      },
+      {
+        "Country Code": "TK",
+        "Country Name": "Tokelau",
+        "Time Zone": "Pacific/Fakaofo"
+      },
+      {
+        "Country Code": "TO",
+        "Country Name": "Tonga",
+        "Time Zone": "Pacific/Tongatapu"
+      }
+    ],
+    "UTC+14:00": [
+      {
+        "Country Code": "KI",
+        "Country Name": "Kiribati",
+        "Time Zone": "Pacific/Kiritimati"
+      }
+    ],
+    "UTC+05:45": [
+      {
+        "Country Code": "NP",
+        "Country Name": "Nepal",
+        "Time Zone": "Asia/Kathmandu"
+      }
+    ],
+    "UTC+12:45": [
+      {
+        "Country Code": "NZ",
+        "Country Name": "New Zealand",
+        "Time Zone": "Pacific/Chatham"
+      }
+    ],
+    "UTC-08:00": [
+      {
+        "Country Code": "PN",
+        "Country Name": "Pitcairn",
+        "Time Zone": "Pacific/Pitcairn"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Anchorage"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Juneau"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Metlakatla"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Nome"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Sitka"
+      },
+      {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Time Zone": "America/Yakutat"
+      }
+    ]
+  }

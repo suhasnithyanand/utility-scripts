@@ -105,10 +105,10 @@ for post in locationCollection.find({ "$and" : [ { "$or": [ { 'locationType.name
             mData['state'] = post['state']  or ' '
 
         if 'address1' in post:
-            placeSearchText = placeName + ' ' + address + ' ' + city + ' ' + state + ' ' + country
+            placeSearchText = address + ' ' + city + ' ' + state + ' ' + country
             mData['placeSearchText'] = placeSearchText
         else:    
-            placeSearchText = placeName + ' ' + city + ' ' + state + ' '  + country
+            placeSearchText = city + ' ' + state + ' '  + country
             noPlaceNameCount += 1
             mData['placeSearchText'] = placeSearchText
 
@@ -153,10 +153,10 @@ for post in locationCollection.find({ "$and" : [ { "$or": [ { 'locationType.name
   
 
 
-with open('data1.json', 'w') as outfile:  
+with open('data2.json', 'w') as outfile:  
     json.dump(masterData, outfile, indent=4,)
 
 
-with open('results1.json', 'w') as outfile:  
+with open('results2.json', 'w') as outfile:  
     json.dump(result, outfile, indent=4,)
                
